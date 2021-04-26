@@ -1,0 +1,2 @@
+# dobiecoin.sol
+Dobiecoin contract
